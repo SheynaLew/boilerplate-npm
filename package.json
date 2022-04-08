@@ -2,6 +2,7 @@
 	"author": "Jenny Lewis-Gandy",
 	"description": "Trying to re-learn backend and APIs after finishing the School of Code course so I can become a better full-stack developer",
 	"keywords": ["freecodecamp", "SchoolOfCode", "bootcamper", "backend", "fullstack"],
+	"license": "whatever, I'm just learning",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
